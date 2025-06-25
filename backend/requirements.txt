@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+transformers
+torch
+bitsandbytes
+pycodestyle
+pylint
+radon
+sentencepiece
+protobuf
+python-multipart
+accelerate>=0.26.0
+pydantic-settings
+sentence_transformers
